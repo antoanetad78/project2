@@ -1,0 +1,9 @@
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# Dependency directories
+node_modules/
+jspm_packages/
